@@ -1,1 +1,1 @@
-This project is for learning git.
+This project is for learning git. Updated.
